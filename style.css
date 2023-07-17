@@ -1,0 +1,21 @@
+#authorize-button,
+#signout-button,
+#content {
+	display: none;
+}
+
+body {
+	background-color: black;
+}
+
+header {
+	margin: auto 650px;
+}
+
+.youtube-image {
+	width: 200px;
+	height: 100px;
+}
+.latest {
+	color: white;
+}
